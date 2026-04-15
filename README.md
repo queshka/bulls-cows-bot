@@ -1,9 +1,9 @@
 # 🐂🐄 Bulls & Cows Telegram Bot
 
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-![Telegram](https://img.shields.io/badge/python-telegram--bot-22.6-blue)
-![Database](https://img.shields.io/badge/SQLite-aiosqlite-green)
-![License](https://img.shields.io/badge/python-dotenv-1.0-yellow)
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![Telegram](https://img.shields.io/badge/Telegram-Bot-26A5E4?logo=telegram)
+![Database](https://img.shields.io/badge/Database-SQLite-green?logo=sqlite)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 Telegram-бот для гри **«Бики та Корови»** з базою даних, статистикою та адмін-панеллю.
 
